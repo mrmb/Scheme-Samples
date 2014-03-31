@@ -22,9 +22,9 @@ Creacion de funciones, procedimientos, y sintaxis de scheme.
 		- 	Substring
 		- 	string-ref
 		- 	string-append
+		- 	
 
-
-Si existe alguna duda o quieres contactarme 
-
+Creado por 
+==============
 	Twitter
-	@mrm3101	Marvin Mendez	<mrm_31@galileo.edu>
+	@mrm3101	Marvin Mendez
