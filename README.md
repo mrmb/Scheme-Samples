@@ -22,7 +22,12 @@ Creacion de funciones, procedimientos, y sintaxis de scheme.
 		- 	Substring
 		- 	string-ref
 		- 	string-append
-		- 	
+
+	Class 3
+		- String
+		- Numbers
+		- Chars
+	
 
 Creado por 
 ==============
